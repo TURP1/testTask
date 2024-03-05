@@ -1,0 +1,90 @@
+.linkBox {
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+.card {
+  max-width: 280px;
+  max-height: 400px;
+  border: 1px solid rgb(11, 52, 117);
+  border-radius: 10px;
+  padding: 0 15px 15px;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  gap: 10px;
+
+  text-decoration: none;
+  text-align: center;
+
+  overflow: hidden;
+}
+
+.card:hover{
+  filter: brightness(90%);
+  background-color: rgba(0, 191, 255, 0.204);
+}
+
+.priority {
+  height: 20px;
+  width: 100%;
+}
+
+.title {
+  height: 40px;
+  max-width: 100%;
+
+  font-size: large;
+  font-weight: 700;
+  text-align: center;
+  line-height: 40px;
+
+  overflow: scroll;
+}
+
+.description {
+  min-height: 70px;
+  max-height: 200px;
+  padding: 15px;
+
+  overflow-x: scroll;
+  font-size: large;
+}
+
+.status {
+  padding: 10px;
+  overflow-x: scroll;
+  font-size: large;
+  text-align: center;
+}
+
+.buttonsBlock {
+  display: flex;
+  justify-content: space-around;
+  gap: 15px;
+}
+
+.cardPriorityList{
+  display: flex;
+  justify-items: center;
+  gap: 4px;
+}
+
+.cardPriorityItem{
+  text-transform: uppercase;
+  font-size: xx-small;
+  font-weight: 900;
+}
+
+.highPriority{
+  color: red;
+}
+
+.midPriority{
+  color: yellow;
+}
+
+.lowPriority{
+  color: greenyellow;
+}

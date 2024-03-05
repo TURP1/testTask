@@ -1,0 +1,40 @@
+.taskFormContainer {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 100;
+  background-color: rgba(39, 37, 37, 0.5); 
+}
+
+.taskForm {
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  z-index: 101; 
+  width: 80%;
+  height: 500px;
+  padding: 60px;
+  
+  background-color: rgb(160, 157, 157);
+  border-radius: 40px;
+
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+
+  font-size: large;
+}
+
+.taskFormHeader{
+  text-align: center;
+  font-weight: 800;
+  font-size: xx-large;
+  color: black;
+}
+
+.form{
+  width: 100%;
+}
