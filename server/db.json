@@ -1,60 +1,25 @@
 {
   "tasks": [
     {
-      "id": "0d8f",
-      "title": "12",
-      "description": "12",
+      "id": "8b19",
+      "title": "Praise Igor's Beard",
+      "description": "In history, beards have played a significant role. For example, in Ancient Egypt, beards were considered a symbol of masculinity and status, and were worn by almost all men, including pharaohs. In other cultures, beards also had special significance: among the Greeks and Romans, they were associated with warriorship, while among the Vikings and medieval knights, they were associated with courage and strength. Throughout different historical periods, beards were subject to various fashion trends and were sometimes banned by governments, while in other times they were considered mandatory according to local customs and religious mandates.",
+      "status": "in progress",
+      "priority": "high"
+    },
+    {
+      "id": "9ec6",
+      "title": "go for a walk with the dog",
+      "description": "\ngood thing I don't have a dog",
       "status": "completed",
-      "priority": "mid"
-    },
-    {
-      "id": "6546",
-      "title": "asdsad",
-      "description": "sadsad",
-      "status": "in progress",
-      "priority": "mid"
-    },
-    {
-      "id": "1c25",
-      "title": "aaa",
-      "description": "aaa",
-      "status": "in progress",
-      "priority": "high"
-    },
-    {
-      "id": "9b9f",
-      "title": "1q",
-      "description": "q1",
-      "status": "in progress",
-      "priority": "mid"
-    },
-    {
-      "id": "810d",
-      "title": "1",
-      "description": "1",
-      "status": "in progress",
-      "priority": "mid"
-    },
-    {
-      "id": "b302",
-      "title": "asdsad asd sad asd as das d aSDASDAS DASD ASD ASD asdsad asd sad asd as das d aSDASDAS DASD ASD ASD asdsad asd sad asd as das d aSDASDAS DASD ASD ASD asdsad asd sad asd as das d aSDASDAS DASD ASD ASD asdsad asd sad asd as das d aSDASDAS DASD ASD ASD asdsad asd sad asd as das d aSDASDAS DASD ASD ASD asdsad asd sad asd as das d aSDASDAS DASD ASD ASD asdsad asd sad asd as das d aSDASDAS DASD ASD ASD asdsad asd sad asd as das d aSDASDAS DASD ASD ASD ",
-      "description": "asdsad asd sad asd as das d aSDASDAS DASD ASD ASD asdsad asd sad asd as das d aSDASDAS DASD ASD ASD asdsad asd sad asd as das d aSDASDAS DASD ASD ASD asdsad asd sad asd as das d aSDASDAS DASD ASD ASD asdsad asd sad asd as das d aSDASDAS DASD ASD ASD asdsad asd sad asd as das d aSDASDAS DASD ASD ASD asdsad asd sad asd as das d aSDASDAS DASD ASD ASD ",
-      "status": "new",
-      "priority": "high"
-    },
-    {
-      "id": "3f17",
-      "title": "sasadas",
-      "description": "asdasdasDASDD DASAS D ASD",
-      "status": "new",
-      "priority": "mid"
-    },
-    {
-      "id": "8d54",
-      "title": "adssad",
-      "description": "asdsad",
-      "status": "new",
       "priority": "low"
+    },
+    {
+      "id": "aecc",
+      "title": " Get Feedback From Uni-Agency",
+      "description": "Research shows that people who receive constructive feedback are more successful in achieving their goals. Feedback helps them better understand their strengths and weaknesses, which contributes to their personal and professional growth.",
+      "status": "new",
+      "priority": "mid"
     }
   ]
 }
