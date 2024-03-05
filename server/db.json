@@ -20,6 +20,13 @@
       "description": "Research shows that people who receive constructive feedback are more successful in achieving their goals. Feedback helps them better understand their strengths and weaknesses, which contributes to their personal and professional growth.",
       "status": "new",
       "priority": "mid"
+    },
+    {
+      "id": "d670",
+      "title": "ThreeJs Table: table-three-js.vercel.app",
+      "description": "I became interested, and I made some part of that application about the table\nhttps://github.com/TURP1/table-threeJS",
+      "status": "in progress",
+      "priority": "high"
     }
   ]
 }
